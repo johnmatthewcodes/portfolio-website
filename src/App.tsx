@@ -142,8 +142,8 @@ function App() {
                         <span className="project-tag">CSS</span>
                       </div>
                       <div className="project-links">
-                        <a href="#" className="project-link">View Project</a>
-                        <a href="#" className="project-link">Source Code</a>
+                        <a href="https://portfolionimattchu.netlify.app/" className="project-link">View Project</a>
+                        <a href="https://github.com/johnmatthewcodes/portfolio-website" className="project-link">Source Code</a>
                       </div>
                     </div>
                   </div>
@@ -160,7 +160,7 @@ function App() {
                       </div>
                       <div className="project-links">
                         <a href="https://resume-generator-next-app.vercel.app/" className="project-link">View Project</a>
-                        <a href="https://github.com/insecurebandit/resume-generator-next-app" className="project-link">Source Code</a>
+                        <a href="https://github.com/johnmatthewcodes/resume-generator-next-app" className="project-link">Source Code</a>
                       </div>
                     </div>
                   </div>
@@ -176,8 +176,8 @@ function App() {
                         <span className="project-tag">JavaScript</span>
                       </div>
                       <div className="project-links">
-                        <a href="https://insecurebandit.github.io/Log-In/" className="project-link">View Project</a>
-                        <a href="https://github.com/insecurebandit/Log-In" className="project-link">Source Code</a>
+                        <a href="https://johnmatthewcodes.github.io/Log-In/" className="project-link">View Project</a>
+                        <a href="https://github.com/johnmatthewcodes/Log-In" className="project-link">Source Code</a>
                       </div>
                     </div>
                   </div>
@@ -194,6 +194,9 @@ function App() {
                         <span className="project-tag">PHP</span>
                         <span className="project-tag">MySQL</span>
                       </div>
+                      <div className="project-links">
+                        <a href="https://github.com/johnmatthewcodes/Student_Portal" className="project-link">Source Code</a>
+                      </div>
                     </div>
                   </div>
 
@@ -208,6 +211,9 @@ function App() {
                         <span className="project-tag">JavaScript</span>
                         <span className="project-tag">PHP</span>
                         <span className="project-tag">MySQL</span>
+                      </div>
+                        <div className="project-links">
+                        <a href="https://github.com/johnmatthewcodes/Product-Inventory-System" className="project-link">Source Code</a>
                       </div>
                     </div>
                   </div>
