@@ -212,7 +212,7 @@ function App() {
                         <span className="project-tag">PHP</span>
                         <span className="project-tag">MySQL</span>
                       </div>
-                        <div className="project-links">
+                      <div className="project-links">
                         <a href="https://github.com/johnmatthewcodes/Product-Inventory-System" className="project-link">Source Code</a>
                       </div>
                     </div>
